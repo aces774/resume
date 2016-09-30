@@ -1,0 +1,91 @@
+body{
+	 background: url(http://www.walldevil.com/wallpapers/a68/table-wooden-wallpaper-patterns-wood-texture-textured-wallpapers.jpg) no-repeat scroll center;
+}
+div
+{
+	color: white;
+	margin-right: 200px;
+	margin-left:200px;
+}
+.nm{
+	color: #AD0BD0;
+	font-family: Verdana;
+	font-size: 40px;
+	margin-left: 200px;
+}
+.ldiv{
+	
+	float: left;
+	color: white; 
+	margin-left: 100px;
+	margin-top: -107px;
+	
+
+}
+
+.rdiv{
+	
+	float: left;
+	margin-top: 10px;
+	color: white;
+	margin-right: 400px;
+	margin-left: 200px; 
+	
+	
+}
+.radiv{
+	
+	float: left;
+	margin-top: 40px;
+	color: white;
+	margin-right: 400px;
+	margin-left: 200px; 
+	
+	
+}
+.ladiv{
+	
+	float: left;
+	color: white; 
+	margin-left: 100px;
+	margin-top: -125px;
+	
+
+}
+.rsdiv{
+	
+	float: left;
+	margin-top: 10px;
+	color: white;
+	margin-right: 400px;
+	margin-left: 200px; 
+	
+	
+}
+.lsdiv{
+	
+	float: left;
+	color: white; 
+	margin-left: 100px;
+	margin-top: -78px;
+	
+
+}
+
+hr
+{
+	color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#bio{
+	margin-right: 400px;
+}
+#br1
+{
+	margin-top: -50px;
+}
+
+
+
+
